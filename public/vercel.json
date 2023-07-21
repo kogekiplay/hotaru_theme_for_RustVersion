@@ -1,6 +1,10 @@
 {
     "routes": [
         {
+            "src": "/",
+            "dest": "https://tz.kogeki.cf"
+        },
+        {
             "src": "/report",
             "dest": "https://tz.kogeki.cf/report"
         },
