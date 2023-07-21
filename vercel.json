@@ -2,23 +2,23 @@
     "rewrites": [
         {
             "source": "/report",
-            "destination": "https://tzapi.kogeki.cf/report"
+            "destination": "https://status.kogeki.cf/report"
         },
         {
             "source": "/json/stats.json",
-            "destination": "https://tzapi.kogeki.cf/json/stats.json"
+            "destination": "https://status.kogeki.cf/json/stats.json"
         },
         {
             "source": "/detail",
-            "destination": "https://tzapi.kogeki.cf/detail"
+            "destination": "https://status.kogeki.cf/detail"
         },
         {
             "source": "/map",
-            "destination": "https://tzapi.kogeki.cf/map"
+            "destination": "https://status.kogeki.cf/map"
         },
         {
             "source": "/i",
-            "destination": "https://tzapi.kogeki.cf/i"
+            "destination": "https://status.kogeki.cf/i"
         }
     ]
 }
