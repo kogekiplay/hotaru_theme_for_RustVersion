@@ -1,24 +1,24 @@
 {
-    "routes": [
+    "rewrites": [
         {
-            "src": "/report",
-            "dest": "https://tzapi.kogeki.cf/report"
+            "source": "/report",
+            "destination": "https://tzapi.kogeki.cf/report"
         },
         {
-            "src": "/json/stats.json",
-            "dest": "https://tzapi.kogeki.cf/json/stats.json"
+            "source": "/json/stats.json",
+            "destination": "https://tzapi.kogeki.cf/json/stats.json"
         },
         {
-            "src": "/detail",
-            "dest": "https://tzapi.kogeki.cf/detail"
+            "source": "/detail",
+            "destination": "https://tzapi.kogeki.cf/detail"
         },
         {
-            "src": "/map",
-            "dest": "https://tzapi.kogeki.cf/map"
+            "source": "/map",
+            "destination": "https://tzapi.kogeki.cf/map"
         },
         {
-            "src": "/i",
-            "dest": "https://tzapi.kogeki.cf/i"
+            "source": "/i",
+            "destination": "https://tzapi.kogeki.cf/i"
         }
     ]
 }
