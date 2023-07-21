@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/report",
+            "dest": "https://tz.kogeki.cf/report"
+        },
+        {
+            "src": "/json/stats.json",
+            "dest": "https://tz.kogeki.cf/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://tz.kogeki.cf/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://tz.kogeki.cf/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://tz.kogeki.cf/i"
+        }
+    ]
+}
